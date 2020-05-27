@@ -1,0 +1,38 @@
+
+
+
+h1 {
+   color: #ea9a96;
+} 
+h2 {
+    color: #ffd3e1;
+}
+h3 {
+    color: #ea9a96;
+}
+.top-container {
+    background-color: #ffd3e1;
+}
+.bottom-container {
+    background-color: #ffd3e1;
+}
+.footer-link {
+    color: #ea9a96;
+}
+
+.footer-link:hover {
+    color: #ea9a96;
+}
+
+.laicheehoong {
+    color: #ffd3e1;
+}
+.btn {
+    background: #ffd3e1;
+    background-image: linear-gradient(to bottom, #ffd3e1, #ea9a96);
+}
+
+.btn:hover {
+    background: #ffd3e1;
+    background-image: linear-gradient(to bottom, #ffd3e1, #ea9a96);
+}
