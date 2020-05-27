@@ -29,10 +29,10 @@ h3 {
 }
 .btn {
     background: #ffd3e1;
-    background-image: linear-gradient(to bottom, #ffd3e1, #ea9a96);
+    background-image: linear-gradient(to bottom, #f3d7e0, #ebbbb8);
 }
 
 .btn:hover {
-    background: #ffd3e1;
-    background-image: linear-gradient(to bottom, #ffd3e1, #ea9a96);
+    background: #ddc8ce;
+    background-image: linear-gradient(to bottom, #e0c7cf, #e9b9b6);
 }
